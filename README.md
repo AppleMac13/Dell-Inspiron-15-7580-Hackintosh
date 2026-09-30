@@ -1,2 +1,5 @@
-本项目为戴尔 Inspiron 15 7580 核心显示补丁，旨在修复在 macOS 13 及更高版本使用 MacBook SMBIOS 时的开机黑屏问题和macOS适配问题。
-This project is a core display patch for the Dell Inspiron 15 7580, aimed at fixing the boot black screen issue when using MacBook SMBIOS on macOS 13 and above, as well as compatibility issues with macOS 14.
+此项目为戴尔灵越 7580 黑苹果 EFI 补丁项目
+此項目為戴爾靈越 7580 黑蘋果 EFI 補丁項目
+This project is a Hackintosh EFI patch project for the Dell Inspiron 7580.
+Ce projet est un projet de correctif EFI Hackintosh pour le Dell Inspiron 7580.
+Этот проект — проект патча EFI Hackintosh для Dell Inspiron 7580.
